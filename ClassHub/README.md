@@ -1,3 +1,6 @@
-# ClassHub
+# ClassHub - Agendamento Calendly
 
-# Integrantes do Grupo: Caio César, Micael Pereira, Wender Alves
+# Integrantes do Grupo:
+- [Micael Pereira da Silva](https://github.com/Mikemps)
+- [Caio César Oliveira Silva](https://github.com/CaiaoCesar)
+- [Wender Alves da Silva ](https://github.com/was8)
