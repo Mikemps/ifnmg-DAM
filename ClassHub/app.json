@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ClassHub",
-    "slug": "ClassHub",
+    "name": "classhub",
+    "slug": "classhub",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
